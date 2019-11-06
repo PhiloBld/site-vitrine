@@ -37,7 +37,7 @@ li a:hover {
 width: auto;
 padding: 250px;
 background-size: cover;
-background-image: url(file:///Users/philomenebeliard/Documents/site/site_vitrine/img/image8.png);
+background-image: url(../img/image8.png);
 }
 
 .pip{
